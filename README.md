@@ -24,5 +24,16 @@ python3 --version
       sudo apt update
       sudo apt install python3
       ```
-- 
+## 🔍 Step 3: Create a python file 
+make a file of ``` .py ``` Extension   
+eg: ``` Main.py ``` this is a file contaning some python code 
+
+## 🔍 Step 4: Run the Created python file 
+type in terminal : 
+```bash
+    python3 Main.py
+```
+
+## Run Succesfull  ✅ 
+
 
