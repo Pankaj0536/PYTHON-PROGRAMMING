@@ -24,5 +24,4 @@ python3 --version
       sudo apt update
       sudo apt install python3
       ```
-- 
 
