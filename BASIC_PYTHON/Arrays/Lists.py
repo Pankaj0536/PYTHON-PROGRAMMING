@@ -21,3 +21,8 @@ stationary = ['Pen','Pencil' , 'Eraser' ,'Pen']
 print("My Stationary are :" ,stationary)
 
 # output:
+# ---List---
+#  Vegetables   :  ['Carrot', 'Potato', 'Cucumber', 'Onion']
+# Vegetables are :  ['Carrot', 'Potato', 'Cucumber', 'cabbage']
+# Vegetables list  ['Carrot', 'Potato', 'Cucumber', 'cabbage', 'Chilly']
+# My Stationary are : ['Pen', 'Pencil', 'Eraser', 'Pen']

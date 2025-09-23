@@ -19,11 +19,11 @@ python3 --version
 ```
 ✅ check If it is showing the latest version of python i.e ``` Python 3.13.7``` or ```python 3.12.1``` <br>
 - ☑️ If yes then you are good to go for next step 🚀
-- ❌ If no → Install Python:  
-      ```bash
-      sudo apt update
-      sudo apt install python3
-      ```
+- ❌ If no → Install Python:
+  
+       sudo apt update
+       sudo apt install python3
+      
 ## 🔍 Step 3: Create a python file 
 make a file of ``` .py ``` Extension   
 eg: ``` Main.py ``` this is a file contaning some python code 
