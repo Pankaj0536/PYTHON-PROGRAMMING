@@ -10,4 +10,6 @@ greet = "Good morning"  #this include datatype we will learn later
 
 print('Hey pankaj',greet)
 
-
+# output :
+# Hello, learners!
+# Hey pankaj Good morning
