@@ -9,3 +9,10 @@ z = a + b / 8 - c * 3 + a**b # expression
 print(' a = {a}\n b = {b}\n c = {c}\n d = {d}'.format(a=a,b=b,c=c,d=d))
 
 print(' a + b / 8 - c * 3 + a**b = ',z)
+
+# output :
+ # a = 2
+ # b = 4
+ # c = 6
+ # d = 12
+ # a + b / 8 - c * 3 + a**b =  0.5
