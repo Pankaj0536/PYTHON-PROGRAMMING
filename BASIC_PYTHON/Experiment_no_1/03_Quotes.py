@@ -12,3 +12,9 @@ print(single_quotes)
 print(double_quotes)
 print(triple_single_quotes)
 print(triple_double_quotes)
+
+# output :
+# This is a string with single quotes
+# This is a string with double quotes
+# This is a string with triple single quotes
+# This is a string with triple double quotes
