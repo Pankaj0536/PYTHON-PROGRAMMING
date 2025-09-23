@@ -60,13 +60,9 @@ unique_numbers = {10, 20, 30, 40, 20}
 * Example :
 
 ```bash
-
 car = {
    "brand" : "Rollce Royce",
    "model" : "Model Phantom",
    "year" : 2024
 }
 ```
-
-
-
