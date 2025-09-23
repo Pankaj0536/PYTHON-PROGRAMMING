@@ -19,3 +19,5 @@ print("Vegetables list ", Vegetables)
 
 stationary = ['Pen','Pencil' , 'Eraser' ,'Pen']
 print("My Stationary are :" ,stationary)
+
+# output:
