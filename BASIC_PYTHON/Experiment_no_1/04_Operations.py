@@ -19,3 +19,13 @@ print("Division:", div)
 print("Floor Division:", floor_div)
 print("Modulus:", mod)
 print("Exponentiation:", power)
+
+# output
+# --- Math Operations ---
+# Addition: 13      
+# Subtraction: 3    
+# Multiplication: 40
+# Division: 1.6     
+# Floor Division: 1
+# Modulus: 3
+# Exponentiation: 32768
