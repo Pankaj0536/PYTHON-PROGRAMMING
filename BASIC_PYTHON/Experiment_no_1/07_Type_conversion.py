@@ -17,3 +17,14 @@ print('\n After typecasting')
 print(a,"    -> " , type(a))
 print(b,"      -> " , type(b))
 print(c,"  -> " , type(c))
+
+# output:
+# Before typecasting
+# 23      ->  <class 'int'>
+# 45.99   ->  <class 'float'>
+# (2+3j)  ->  <class 'complex'>
+
+#  After typecasting
+# 23.0     ->  <class 'float'>
+# 45       ->  <class 'int'>
+# (2+3j)   ->  <class 'str'>
