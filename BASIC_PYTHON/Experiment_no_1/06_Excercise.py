@@ -7,3 +7,6 @@ greeting = 'Hello'
 display_greet = greeting + ' ' + name + ' ' + surname + ' '
 
 print(display_greet)
+
+# output:
+# Hello Pankaj Rana 
