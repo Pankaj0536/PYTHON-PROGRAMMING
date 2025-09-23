@@ -30,7 +30,7 @@ print(arr[1])  # Output: 2
 
 ## 🔹Types of Array(collections) :
 
-### Array are further divided into 4 types .
+### Array are further divided into 4 types (Also called as Built in data type).
 
 | 🏷️ Collection | 📑 Ordered | 🔄 Mutable | 🔁 Duplicates | 🔢 Indexed | 📝 Notes |
 |---------------|------------|------------|---------------|------------|----------|
