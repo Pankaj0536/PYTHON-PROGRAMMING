@@ -32,10 +32,10 @@ print(arr[1])  # Output: 2
 
 ### Array are further divided into 4 types .
 
-| Collection Type | Ordered | Changeable (Mutable) | Allows Duplicates | Indexed | Notes |
-|-----------------|---------|-----------------------|-------------------|---------|-------|
-| **List**        | ✔ Yes   | ✔ Yes                | ✔ Yes             | ✔ Yes   | Commonly used for dynamic collections |
-| **Tuple**       | ✔ Yes   | ✘ No                 | ✔ Yes             | ✔ Yes   | Immutable version of list |
-| **Set**         | ✘ No    | ✘ No*                | ✘ No              | ✘ No    | Elements are unique; unordered collection |
-| **Dictionary**  | ✔ Yes** | ✔ Yes                | ✘ No (keys)       | ✔ Yes (keys) | Keys are unique; values can be duplicate |
+| 🏷️ Collection | 📑 Ordered | 🔄 Mutable | 🔁 Duplicates | 🔢 Indexed | 📝 Notes |
+|---------------|------------|------------|---------------|------------|----------|
+| **📋 List**        | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | Flexible & commonly used |
+| **📦 Tuple**       | ✅ Yes | ❌ No  | ✅ Yes | ✅ Yes | Immutable list |
+| **🔗 Set**         | ❌ No  | ⚡*Partial | ❌ No  | ❌ No  | Unique, unordered collection |
+| **📖 Dictionary**  | ✅ Yes | ✅ Yes | ❌ No (keys) | ✅ Yes (keys) | Keys unique, values can repeat |
 
