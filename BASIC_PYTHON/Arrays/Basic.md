@@ -36,6 +36,6 @@ print(arr[1])  # Output: 2
 |---------------|------------|------------|---------------|------------|----------|
 | **📋 List**        | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | Flexible & commonly used |
 | **📦 Tuple**       | ✅ Yes | ❌ No  | ✅ Yes | ✅ Yes | Immutable list |
-| **🔗 Set**         | ❌ No  | ⚡*Partial | ❌ No  | ❌ No  | Unique, unordered collection |
+| **🔗 Set**         | ❌ No  | ⚡*Partial* | ❌ No  | ❌ No  | Unique, unordered collection |
 | **📖 Dictionary**  | ✅ Yes | ✅ Yes | ❌ No (keys) | ✅ Yes (keys) | Keys unique, values can repeat |
 
