@@ -25,9 +25,18 @@ print('This is by poping function',Vegetables.pop())
 stationary = ['Pen','Pencil' , 'Eraser' ,'Pen']
 print("My Stationary are :" ,stationary)
 
+# Sorting 
+Vegetables.sort()
+print("The sorted list is : ",Vegetables)
+
+
 # output:
-# ---List---
+#---List---
 #  Vegetables   :  ['Carrot', 'Potato', 'Cucumber', 'Onion']
 # Vegetables are :  ['Carrot', 'Potato', 'Cucumber', 'cabbage']
-# Vegetables list  ['Carrot', 'Potato', 'Cucumber', 'cabbage', 'Chilly']
+# Vegetables list  ['Carrot', 'Potato', 'tomato', 'Cucumber', 'cabbage', 'Chilly']
+# Onion is removed ['Potato', 'tomato', 'Cucumber', 'cabbage', 'Chilly']
+# This is by poping function Chilly
 # My Stationary are : ['Pen', 'Pencil', 'Eraser', 'Pen']
+# The sorted list is :  ['Cucumber', 'Potato', 'cabbage', 'tomato']
+
