@@ -8,5 +8,5 @@ Marks_detail = {
 
 print(Marks_detail)
 
-# output:
+# output: 
 # {'Maths': (12, 34, 78), 'Hindi': (78, 88, 90), 'Science': (11, 80, 78)}
