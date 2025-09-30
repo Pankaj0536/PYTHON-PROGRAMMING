@@ -16,6 +16,7 @@ for fruit in fruits:
   - Used to repeatedly execute a block of code as long as a specified condition remains True.
   - The loop continues until the condition becomes False.
   - Example:
+  
 ```bash
 count = 0
 while count < 5:
