@@ -17,6 +17,7 @@ Instead of writing the same code multiple times, you can define a function once 
 ---
 
 ## 🔹 Function Syntax in Python
+in python the function defined using def
 ```python
 def function_name(parameters):
     # function body
