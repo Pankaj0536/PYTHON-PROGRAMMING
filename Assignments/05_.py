@@ -12,3 +12,8 @@ fruit_dict = {
 
 for fruit in fruit_dict :
     print(fruit)
+
+# output :
+# apple
+# banana
+# kiwi
