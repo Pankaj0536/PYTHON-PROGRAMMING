@@ -15,3 +15,9 @@ try:
         print("Access granted.")
 except AgeTooSmallError as e:
     print(f"Error: {e}")
+
+'''
+Output
+Enter your age: 34
+Access granted.
+'''
