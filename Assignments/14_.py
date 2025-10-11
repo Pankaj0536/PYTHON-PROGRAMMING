@@ -18,6 +18,10 @@ except AgeTooSmallError as e:
 
 '''
 Output
+
 Enter your age: 34
 Access granted.
+
+Enter your age: 15
+Error: Age is less than 18! Access denied.
 '''
