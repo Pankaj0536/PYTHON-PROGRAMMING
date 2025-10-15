@@ -42,6 +42,7 @@ salary = float(input("Enter Your salary : "))
 obj = employee(name , department , position , salary)
 obj.display()
 
+
 '''
  Output :
 Employee Information :
