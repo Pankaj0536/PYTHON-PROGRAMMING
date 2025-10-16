@@ -1,5 +1,3 @@
-#  In this file we will learn the Encapsulation concept in python
-
 # In this file, we will learn the Encapsulation concept in Python
 
 class BankAccount:
