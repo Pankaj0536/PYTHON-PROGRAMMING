@@ -34,4 +34,4 @@ type in terminal :
     python3 Main.py
 ```
 
-## Run Succesfull  ✅ 
+## Run Succesfull ✅ 
