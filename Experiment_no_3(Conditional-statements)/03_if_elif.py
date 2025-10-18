@@ -18,3 +18,8 @@ elif hour_value >= 16 and hour_value < 20:
 else :
     print(f"Good Night {name}")
     
+'''
+output :
+Enter your name : pankaj 
+Good Night pankaj 
+'''
