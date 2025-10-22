@@ -36,21 +36,20 @@ for key , value in student3.items():
 print("\nlist of dictionaries to represent multiple students : ")
 print(list_of_student)
 
-# output:
-# Student1 Details
-# name => Pankaj
-# age => 19
-# roll no => 23
-
-# Student2 Details
-# name => Hafiz
-# age => 19
-# roll no => 19
-
-# Student3 Details
-# name => Nikhil
-# age => 20
-# roll no => 9
-
-# list of dictionaries to represent multiple students :
-# [{'name': 'Pankaj', 'age': 19, 'roll no': 23}, {'name': 'Hafiz', 'age': 19, 'roll no': 19}, {'name': 'Nikhil', 'age': 20, 'roll no': 9}]
+'''
+ output:
+ Student1 Details
+ name => Pankaj
+ age => 19
+ roll no => 23
+ Student2 Details
+ name => Hafiz
+ age => 19
+ roll no => 19
+ Student3 Details
+ name => Nikhil
+ age => 20
+ roll no => 9
+ list of dictionaries to represent multiple students :
+ [{'name': 'Pankaj', 'age': 19, 'roll no': 23}, {'name': 'Hafiz', 'age': 19, 'roll no': 19}, {'name': 'Nikhil', 'age': 20, 'roll no': 9}]
+ '''
