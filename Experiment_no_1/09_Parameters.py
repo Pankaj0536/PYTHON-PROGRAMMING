@@ -18,3 +18,11 @@ print ("Hey this is pankaj here", end = " ")
 print("and pankaj age is 19")
 
 #  there are many parameters in python like file , flush
+
+'''
+Output :
+
+pankaj -> 19 -> 23
+Hey this is pankaj here and pankaj age is 19
+
+'''
