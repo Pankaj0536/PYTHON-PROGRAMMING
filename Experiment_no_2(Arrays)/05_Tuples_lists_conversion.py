@@ -18,6 +18,8 @@ tuple2 = tuple(list1)
 print("Original tuple:", tuple1)    # Before modification
 print("Modified tuple:", tuple2)    # After modification
 
-# output:
-# Original tuple: (12, 56, 74, 22)
-# Modified tuple: (12, 56, 90, 22)
+'''
+ output:
+ Original tuple: (12, 56, 74, 22)
+ Modified tuple: (12, 56, 90, 22)
+'''
