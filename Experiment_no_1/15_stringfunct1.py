@@ -24,7 +24,7 @@ print("name is : ", replaced_name)
 print("The list of you name is : ",name.split(" "))
 
 # 7. capitalize() : it cover the first character of a string in uppercase and rest of lowercase
-str2 = "heY this is PANKAJ here!!"
+str2 = "heY this Is PANKAJ here!!"
 print(str2.capitalize())
 
 # 8. center() : it is use to print in center of console 
