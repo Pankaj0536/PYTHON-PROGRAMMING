@@ -18,6 +18,7 @@ Follow these steps to quickly run your first Python program 🚀
 ## 🛠️ Step 1: Open Terminal  
 👉 Press **`Ctrl + Alt + T`** or search for *“Terminal”* in your app menu.  
 
+
 ---
 
 ## 🔍 Step 2: Check if Python is Installed  
