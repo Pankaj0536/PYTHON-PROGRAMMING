@@ -8,6 +8,7 @@ print(f"Your name is : {name.upper()}")
 status = "SleepIng"
 print(f"Your status is : {status.lower()}")
 
+
 # 3. strip() : This remove white spaces from string befor or after written
 friend = " Hafiz khan "
 print(f"Your friend name is {friend.strip()}")
