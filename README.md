@@ -35,7 +35,6 @@ python3 --version
 sudo apt update
 sudo apt install python3
 ```
-
 ---
 
 ## 📝 Step 3: Create a Python File
