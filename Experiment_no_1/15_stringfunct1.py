@@ -51,7 +51,7 @@ removed '@' from yeeepeee!!!@@ :  yeeepeee!!!
 name is :  P@nk@j R@n@
 The list of you name is :  ['Pankaj', 'Rana']
 Hey this is pankaj here!!
-****************Welcome to my code****************
+****************Welcome to my code**************** 
 In string Pankaj Rana there is 4 time of 'a'
 Is string 'Pankaj Rana' is ending with 'na' : True
 Is the 'kh' is lying in between 6 - 9 in string  Hafiz khan  : True
