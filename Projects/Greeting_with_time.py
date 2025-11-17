@@ -1,4 +1,4 @@
-# In this file we will learn to use if elif else statements 
+# Hey this is very basic console based project . In this project we will make a software which will wish user good morning /eveing /night compared to time  
 
 from datetime import datetime # this is for current time
 

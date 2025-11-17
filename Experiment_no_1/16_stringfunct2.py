@@ -61,11 +61,10 @@ print(string_upper.isupper())   #true
 
 # 20.startwith() Method
 tempstr = "Hey this is string"
-print("Result : ",tempstr.startswith("Hey"))
-print("Result : ",tempstr.startswith("is"))
+print("Result : ",tempstr.startswith("Hey")) # true
+print("Result : ",tempstr.startswith("is")) # false
 
 # 21.swapcase() Method
 string_converter = "Doraemon IS my favoritE cartoon!"
 print(string_converter.swapcase())
-
 
