@@ -60,8 +60,9 @@ string_upper = "HELLO PANKAJ HERE!"
 print(string_upper.isupper())   #true
 
 # 20.startwith() Method
-
-
+tempstr = "Hey this is string"
+print("Result : ",tempstr.startswith("Hey"))
+print("Result : ",tempstr.startswith("is"))
 
 # 21.swapcase() Method
 string_converter = "Doraemon IS my favoritE cartoon!"
