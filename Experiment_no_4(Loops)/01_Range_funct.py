@@ -16,6 +16,6 @@ for j in range(1 , 9 , 2 ):
     print(j, end = " ") # 1 3 5 7 (here 2 become the step size)
 
 print()
-# for decrement we should write negative value in step place
+# for decrement we should write nega  ive value in step place
 for k in range(10 , 0 , -2 ):
     print(k , end = " ") # 10 8 6 4 2 
