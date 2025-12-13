@@ -4,7 +4,7 @@ Hey now we have our **Zero to Hero Python codes!** 😎
 
 ---
  
-### 💡 Below are the steps to install Python on your personal computer or laptop  
+### 💡 Below are the steps to install Python on your personal computer or laptop 
 *(Choose your operating system and follow the instructions carefully)*  
 
 ---
