@@ -8,7 +8,7 @@ print("Downloading:", end="", file=f, flush=True)
 
 for i in range(20):
     # Print progress block to file and screen
-    print("█", end="", flush=True, file=f)
+    print("█",end="",flush=True,file=f)
     time.sleep(0.1)  # faster for testing
 
 # Print Done! to file and screen

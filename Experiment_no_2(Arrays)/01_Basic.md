@@ -38,4 +38,3 @@ print(arr[1])  # Output: 2
 | **📦 Tuple**       | ✅ Yes | ❌ No  | ✅ Yes | ✅ Yes | Immutable list |
 | **🔗 Set**         | ❌ No  | ⚡*Partial* | ❌ No  | ❌ No  | Unique, unordered collection |
 | **📖 Dictionary**  | ✅ Yes | ✅ Yes | ❌ No (keys) | ✅ Yes (keys) | Keys unique, values can repeat |
-

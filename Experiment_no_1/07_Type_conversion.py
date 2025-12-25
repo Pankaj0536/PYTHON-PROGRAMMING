@@ -4,16 +4,16 @@ num1 = 23       # Integer
 num2 = 45.99    # float
 num3 = 2 + 3j   # complex
 
-a = float(num1)
-b = int(num2)
-c = str(num3)
+a = float(num1) # 23.0
+b = int(num2)   # 45 
+c = str(num3)   # '2 + 3j'
 
 print('Before typecasting')
 print(num1,"     -> " , type(num1))
 print(num2,"  -> " , type(num2))
 print(num3," -> " , type(num3))
 
-print('\n After typecasting')
+print('\nAfter typecasting')
 print(a,"    -> " , type(a))
 print(b,"      -> " , type(b))
 print(c,"  -> " , type(c))
@@ -24,7 +24,7 @@ print(c,"  -> " , type(c))
 # 45.99   ->  <class 'float'>
 # (2+3j)  ->  <class 'complex'>
 
-#  After typecasting
+# After typecasting
 # 23.0     ->  <class 'float'>
 # 45       ->  <class 'int'>
 # (2+3j)   ->  <class 'str'>

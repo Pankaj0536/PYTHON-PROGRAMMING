@@ -1,5 +1,6 @@
 #  In this file we will see the use of flush parameter in print statement 
 
+# Basically flush parameter is used to print output instantly on to console 
 import time # import time module for delay
 
 for i in range(100):
@@ -7,3 +8,9 @@ for i in range(100):
     time.sleep(0.1)
 
 print("\nAll tasks completed successfully.")
+
+'''
+Output : 
+[TOTAL = 100] Task 100 completed
+All tasks completed successfully.
+'''
