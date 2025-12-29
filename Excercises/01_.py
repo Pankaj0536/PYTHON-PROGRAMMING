@@ -4,9 +4,7 @@ AIM :
 '''
 
 # Multi-line paragraph input
-text = """Hello world!
-This is a test.
-Hello again, world?"""
+text = input("Enter the string :  ")
 
 # Step 1: Convert to lowercase
 text = text.lower()
@@ -32,3 +30,17 @@ for word in words:
 print("Word Frequency:")
 for word, count in word_count.items():
     print(word, ":", count)
+
+'''
+Output : 
+
+Enter the string :  jony jony yes papa , eating sugar no papa
+Word Frequency:
+jony : 2
+yes : 1
+papa : 2
+eating : 1
+sugar : 1
+no : 1
+
+'''
